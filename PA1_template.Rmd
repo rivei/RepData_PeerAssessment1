@@ -1,8 +1,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "Wei Lin"
 output: "PA1_template.md"
-html_document: "PA1_template.html"
-keep_md: true
+        html_document: "PA1_template.html"
+                keep_md: true
 ---
 ## Introduction
 This is a document shows all the steps to complete the peer assessment 1
